@@ -1,2 +1,2 @@
 # APImovies
-Se hace uso de la API de themoviedb para crearun catalogo de películas.
+Se hace uso de la API de themoviedb para crear un catalogo de películas.
